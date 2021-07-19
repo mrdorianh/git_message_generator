@@ -1,5 +1,6 @@
 # git_message_generator (Mixed Messages)
 Generate random messages in response to github commits.
+![mixed messages sample](https://user-images.githubusercontent.com/69997475/126225788-3acdc098-1874-4be7-affd-33e5d26bef85.PNG)
 
 # PreProduction
 ## Project Objectives:

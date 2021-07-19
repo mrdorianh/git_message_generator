@@ -8,7 +8,7 @@ Generate random messages in response to github commits.
     - Use command line
     - Develop locally on your computer
 ### Topic
-    - Any words related to empathy.
+    - Astrology
 ### Store Message Components
     - An object containing multiple arrays and a randomized output method returning three points of data.
 ## Prerequisites:
